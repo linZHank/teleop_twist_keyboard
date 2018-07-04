@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package>
-  <name>teleop_twist_keyboard</name>
-  <version>0.6.1</version>
-  <description>Generic keyboard teleop for twist robots.</description>
+  <name>teleop_twist_wasd</name>
+  <version>0.0.0</version>
+  <description>Generic keyboard teleop for twist robots using WASD config.</description>
 
-  <maintainer email="namniart@gmail.com">Austin Hendrix</maintainer>
+  <maintainer email="linzhank@gmail.com">linZHank</maintainer>
 
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/teleop_twist_keyboard</url>
 
-  <author>Graylin Trevor Jay</author>
+  <author>LinZ</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>geometry_msgs</run_depend>
