@@ -2,10 +2,10 @@
 Generic Keyboard Teleop for ROS
 > This is an modified version using WASD setting. For original teleop_twist_keyboard, please go to [here](https://github.com/ros-teleop/teleop_twist_keyboard)
 
-#Launch
+## Launch
 To run: `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
 
-#Usage
+## Usage
 ```
 Reading from the keyboard  and Publishing to Twist!
 ---------------------------
