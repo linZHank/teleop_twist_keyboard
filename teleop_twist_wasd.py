@@ -15,13 +15,13 @@ Reading from the keyboard  and Publishing to Twist!
 Moving around:
    u    w    e
    a    s    d
-   z    x    c
+   z         c
 nn
 For Holonomic mode (strafing), hold down the shift key:
 ---------------------------
    Q    W    E
    A    S    D
-   Z    X    C
+   Z         C
 
 t : up (+z)
 b : down (-z)
