@@ -1,6 +1,6 @@
 # teleop_twist_keyboard
 Generic Keyboard Teleop for ROS
-> This is an modified version using WASD setting. For original `teleop_twist_keyboard` with IJKL setting, please go to [here](https://github.com/ros-teleop/teleop_twist_keyboard)
+> This is an modified version using WASD setting (As most FPS games using this setting). For original `teleop_twist_keyboard` with IJKL setting, please go to [here](https://github.com/ros-teleop/teleop_twist_keyboard)
 
 ## Launch
 To run: `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
